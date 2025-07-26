@@ -1,0 +1,1 @@
+# Windows-logging-soc-writeup-tryhackme
